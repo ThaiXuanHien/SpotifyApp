@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648911487204",
+    "project_id": "spotifyapp-f9368",
+    "storage_bucket": "spotifyapp-f9368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648911487204:android:d74c7c186e7f4e7066acf1",
+        "android_client_info": {
+          "package_name": "com.hienthai.spotifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648911487204-rj3df3s5sb1qqgehbm0b3dbob9vdu5jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFRLKFZcCjON9UpG7Jl_3D0n_gsJTaxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648911487204-rj3df3s5sb1qqgehbm0b3dbob9vdu5jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
